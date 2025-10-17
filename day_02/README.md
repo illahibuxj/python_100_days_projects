@@ -19,7 +19,7 @@ It is also a multiple of 5.
 
 ```
 
-**⚙️ Constraints:**
+**⚙️ Constraints/Rules:**
 - Input must be an integer.
 
 **🧠 Step-by-Step Explanation:**
