@@ -37,26 +37,3 @@ Sum of all results = 1050
 Loops, Range, Repetition, Accumulation
 
 ---
-
-
-while True:
-   user_number = int(input("Enter Your Number: "))
-   
-   result_list = []
-   
-   for num in range(1, 21):
-      print(f"{user_number} x {num} = {user_number * num}")
-      result_list.append(num * user_number)
-   
-
-   sum_of_results = 0
-   
-   for i in result_list:
-      sum_of_results += i
-   
-   print(f"Sum of Result: {sum_of_results}")
-   
-   ask_user = input("Do you want another table: (Y/N)\n").lower()
-   
-   if ask_user != "y" or ask_user != "yes":
-      break
