@@ -4,7 +4,7 @@
 Write a program that takes a number from the user and displays:
 1. Whether it’s **even or odd**.  
 2. Whether it’s **positive, negative, or zero**.  
-3. Whether it’s a **multiple of 5**.
+3. Whether it’s a **divisible of 5**.
 
 **💡 Example:**
 ```
