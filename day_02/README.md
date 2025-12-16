@@ -15,7 +15,7 @@ Input:
 Output:
 The number is Even.
 The number is Negative.
-It is also a multiple of 5.
+It is also a divisible by 5.
 
 ```
 
