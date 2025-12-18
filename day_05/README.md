@@ -18,10 +18,10 @@ Input:
 
 Output:
 Vowels: 5
-Consonants: 8
+Consonants: 10
 Digits: 1
-Spaces: 2
-Length (excluding spaces): 13
+Spaces: 3
+Length (excluding spaces): 16
 
 ```
 
