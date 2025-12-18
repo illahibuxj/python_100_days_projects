@@ -1,7 +1,7 @@
 ### 🧩 **Day 4: Multiplication Table Generator — Loops and Ranges**
 
 **📝 Problem Description:**  
-Ask the user for a number and print its multiplication table **up to 20**.  
+Ask the user for a number and print its multiplication table **up to 10**.  
 Then, display the **sum of all results** in the table.  
 Finally, ask the user if they want another table (Y/N) and continue until they say “N”.
 
@@ -15,13 +15,13 @@ Output:
 5 x 1 = 5
 5 x 2 = 10
 ...
-5 x 20 = 100
-Sum of all results = 1050
+5 x 10 = 50
+Sum of all results = 275
 
 ```
 
 **⚙️ Constraints:**
-- Number must be positive and less than 100.
+- Number must be greater than 0 and less than 100.
 
 **🧠 Step-by-Step Explanation:**
 1. Use a `for` loop with `range()`.  
