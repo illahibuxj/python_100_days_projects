@@ -14,14 +14,14 @@ Also, display the **total length** of the sentence (excluding spaces).
 ```
 
 Input:
-"Python 3 is amazing"
+"Welcome to IB Coding School"
 
 Output:
-Vowels: 5
-Consonants: 10
-Digits: 1
-Spaces: 3
-Length (excluding spaces): 16
+Vowels: 9
+Consonants: 14
+Digits: 0
+Spaces: 4
+Length (excluding spaces): 23
 
 ```
 
