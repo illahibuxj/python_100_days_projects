@@ -38,13 +38,12 @@ Odd Count: 3
 
 **💭 Hints:**
 - Explore built-ins like `sorted()`.  
-- Try list comprehension for counting.
 
 **🎯 Concept Learned:**  
 Lists, Type Conversion, Aggregation Functions, List Iteration
 
 ---
-"""
+
 
 ## 📺 **Watch the Solution of this Exercise on YouTube**
 

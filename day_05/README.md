@@ -41,4 +41,6 @@ Length (excluding spaces): 23
 Strings, Character Classification, Loops, Counting Logic
 
 ---
-"""
+## 📺 **Watch the Solution of this Exercise on YouTube**
+
+IB Coding School: [**Python 100 Days Projects**](https://youtube.com/playlist?list=PL-XnT4KCow_9ozafUVLBIAQ0H7FOeVef6&si=P2Bk2eSdP_eKWeCf) 

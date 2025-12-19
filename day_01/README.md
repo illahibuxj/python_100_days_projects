@@ -42,5 +42,6 @@ Variables, Input/Output, Type Conversion, String Methods, Basic Arithmetic
 ---
 
 
+## 📺 **Watch the Solution of this Exercise on YouTube**
 
-**🎯 The End**  
+IB Coding School: [**Python 100 Days Projects**](https://youtube.com/playlist?list=PL-XnT4KCow_9ozafUVLBIAQ0H7FOeVef6&si=P2Bk2eSdP_eKWeCf) 
