@@ -24,3 +24,21 @@ Spaces: 3
 Length (excluding spaces): 16
 
 ```
+
+**⚙️ Constraints:**
+- Input can contain letters, digits, and spaces.
+
+**🧠 Step-by-Step Explanation:**
+1. Initialize counters for each category.  
+2. Loop through each character.  
+3. Use `.isdigit()` and `in` for checks.  
+4. Increment counters accordingly.
+
+**💭 Hints:**
+- Use `.lower()` for uniform checking.  
+
+**🎯 Concept Learned:**  
+Strings, Character Classification, Loops, Counting Logic
+
+---
+"""
