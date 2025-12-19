@@ -48,4 +48,4 @@ Lists, Type Conversion, Aggregation Functions, List Iteration
 
 ## 📺 **Watch the Solution of this Exercise on YouTube**
 
-🎓 YouTube Channel: [**Python 100 Days Projects**](https://youtube.com/playlist?list=PL-XnT4KCow_9ozafUVLBIAQ0H7FOeVef6&si=P2Bk2eSdP_eKWeCf) 
+IB Coding School: [**Python 100 Days Projects**](https://youtube.com/playlist?list=PL-XnT4KCow_9ozafUVLBIAQ0H7FOeVef6&si=P2Bk2eSdP_eKWeCf) 
