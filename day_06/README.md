@@ -45,7 +45,7 @@ Lists, Type Conversion, Aggregation Functions, List Iteration
 
 ---
 """
-**⚙️ See the Solution on IB Coding School:**
-## 📺 **Watch the Full Series on YouTube**
 
-🎓 YouTube Channel: [**IB CODING SCHOOL**](https://youtube.com/playlist?list=PL-XnT4KCow_9ozafUVLBIAQ0H7FOeVef6&si=P2Bk2eSdP_eKWeCf) 
+## 📺 **Watch the Solution of this Exercise on YouTube**
+
+🎓 YouTube Channel: [**Python 100 Days Projects**](https://youtube.com/playlist?list=PL-XnT4KCow_9ozafUVLBIAQ0H7FOeVef6&si=P2Bk2eSdP_eKWeCf) 
